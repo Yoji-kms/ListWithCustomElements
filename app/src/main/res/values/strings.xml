@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">List with custom elements</string>
+    <string name="save">Save</string>
+    <string name="input_note">Input Note</string>
+    <string name="example_age" translatable="false">40</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="quantity_of_steps">Quantity of steps</string>
+    <string name="weight">Weight</string>
+    <string name="tachycardia">Tachycardia</string>
+    <string name="pulse">Pulse</string>
+    <string name="blood_pressure">Blood pressure</string>
+    <string name="recording_lifedata">Recording lifedata</string>
+    <string name="recording_blood_pressure_data">Recording blood pressure data</string>
+    <string name="age">Age:</string>
+    <string name="second_name">Second name</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="user_name">User name:</string>
+    <string name="complex_health_monitoring_system_title">Complex health monitoring system</string>
+    <string name="data_saved">Data saved</string>
+    <string name="notebook_title">Notebook</string>
+    <string name="sandman_image_description">Sandman Image</string>
+    <string name="to_first_screen">To First Screen</string>
+    <string name="to_splash_screen">To Splash Screen</string>
+    <string name="splash_screen_title">Splash Screen</string>
+
+    <string name="universal_input_form_title">Universal Input Form</string>
+    <string name="subscription">Subscription</string>
+    <string name="exampleUserName">Name Surname</string>
+    <string name="text_email" translatable="false">E-mail:</string>
+    <string name="example_email" translatable="false">examle@gmail.com</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="clear">Clear</string>
+    <string name="subscription_confirmation_text">Subscription for user %1$s e-mail %2$s confirmed</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="message" translatable="false">http://myfile.org/%1$d</string>
+    <string name="infinite_activity_loop_title">View photos</string>
+    <string name="photo_description">Photos</string>
+
+    <string name="radio_button_by_checkboxes_title">Radio Button By Checkboxes</string>
+    <string name="by_card">Card</string>
+    <string name="by_mobile_phone">Phone number</string>
+    <string name="by_cash">Cash</string>
+    <string name="choose_payment_method">Choose payment method:</string>
+    <string name="credit_card_info">Enter the card number</string>
+    <string name="input_money">Enter sum</string>
+    <string name="toast_message_payment">"
+        Payment method: %1$s;\n
+        %2$s: %3$s;\n
+        Entered sum: %4$s.
+    </string>
+    <string-array name="input_info_hint">
+        <item>Enter the card number</item>
+        <item>Enter the phone number</item>
+        <item>Enter the address</item>
+    </string-array>
+    <string-array name="payment_method_message">
+        <item>Card number</item>
+        <item>Phone number</item>
+        <item>Address</item>
+    </string-array>
+
+    <string name="countries_cities_streets_title">Countries-Cities-Streets</string>
+    <string name="toast_message_countries_cities_streets">
+        Country: %1$s;\n
+        City: %2$s;\n
+        House number: %3$s.
+    </string>
+    <string-array name="countries">
+        <item>Russia</item>
+        <item>Ukraine</item>
+        <item>Belorussia</item>
+    </string-array>
+    <string-array name="russian_cities">
+        <item>Moscow</item>
+        <item>Saint-Petersburg</item>
+        <item>Kazan</item>
+    </string-array>
+    <string-array name="ukrainian_cities">
+        <item>Kiev</item>
+        <item>Odessa</item>
+        <item>Kharkov</item>
+    </string-array>
+    <string-array name="belorussian_cities">
+        <item>Minsk</item>
+        <item>Gomel</item>
+        <item>Torzhok</item>
+    </string-array>
+
+    <string name="task_time_limits_title">Task Time Limits</string>
+    <string name="start_date_and_time">Task start date: %1$s</string>
+    <string name="end_date_and_time">Task end date: %1$s</string>
+    <string name="toast_message_task_time_limits">
+        Start date: %1$s;\n
+        End date: %2$s.
+    </string>
+    <string name="error">Error: end date is earlier then start date</string>
+    <string name="fragment_screenshot">Fragment Screenshot</string>
+
+    <string-array name="subtitle">
+        <item>Pack 1 "Android Introduction. Project Structure".\n
+            Lesson 3 "Interface projecting".\n
+            Task 1 "Health monitoring System"</item>
+
+        <item>Pack 2 "Android View".\n
+            Lesson 2 "ViewGroup components. SharedPreferences".\n
+            Task 1 "Notebook"</item>
+
+        <item>Pack 1 "Android Introduction. Project Structure".\n
+            Lesson 1 "Android Introduction. Android Components".\n
+            Task 2 "Your own Hello World"</item>
+
+        <item>Pack 1 "Android Introduction. Project Structure".\n
+            Lesson 2 "Hello World app".\n
+            Task 1 "Universal Input Form"</item>
+
+        <item>Pack 1 "Android Introduction. Project Structure".\n
+            Lesson 2 "Hello World app".\n
+            Task 2 "Infinite Activity Loop"</item>
+
+        <item>Pack 2 "Android View".\n
+            Lesson 1 "View components. View hierarchy".\n
+            Task 1 "Radiobutton by checkboxes"</item>
+
+        <item>Pack 2 "Android View".\n
+            Lesson 1 "View components. View hierarchy".\n
+            Task 2 "Countries-Cities-Streets"</item>
+
+        <item>Pack 2 "Android View".\n
+            Lesson 1 "View components. View hierarchy".\n
+            Task 3 "Task Time Limits"</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лист с custom элементами</string>
+    <string name="save">Сохранить</string>
+    <string name="input_note">Введите запись</string>
+    <string name="quantity_of_steps">Количество шагов</string>
+    <string name="weight">Вес</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="pulse">Пульс</string>
+    <string name="blood_pressure">Давление</string>
+    <string name="recording_lifedata">Запись жизненных показателей</string>
+    <string name="recording_blood_pressure_data">Запись показателей давления</string>
+    <string name="age">Возраст:</string>
+    <string name="second_name">Отчество</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="user_name">ФИО пользователя:</string>
+    <string name="complex_health_monitoring_system_title">Комплексная система мониторинга здоровья</string>
+    <string name="data_saved">Данные сохранены</string>
+    <string name="notebook_title">Записная книжка</string>
+    <string name="sandman_image_description">Картинка</string>
+    <string name="to_first_screen">К первому экрану</string>
+    <string name="to_splash_screen">Ко второму экрану</string>
+    <string name="splash_screen_title">Переход между экранами</string>
+
+    <string name="universal_input_form_title">Универсальная форма ввода</string>
+    <string name="subscription">Подписка</string>
+    <string name="exampleUserName">Имя Фамилия</string>
+    <string name="clear">Очистить</string>
+    <string name="subscription_confirmation_text">Подписка для пользователя %1$s e-mail %2$s оформлена успешно</string>
+
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+    <string name="infinite_activity_loop_title">Просмотр фотографий</string>
+    <string name="photo_description">Фотографии</string>
+
+    <string name="radio_button_by_checkboxes_title">Взаимоисключающие Checkbox-ы</string>
+    <string name="by_card">Банковской картой</string>
+    <string name="by_mobile_phone">С мобильного телефона</string>
+    <string name="by_cash">Наличными по адресу</string>
+    <string name="choose_payment_method">Выберите способ оплаты:</string>
+    <string name="credit_card_info">Введите номер карты</string>
+    <string name="input_money">Введите сумму</string>
+    <string name="toast_message_payment">"
+        Способ оплаты: %1$s;\n
+        %2$s: %3$s;\n
+        Введённая сумма: %4$s.
+    </string>
+    <string-array name="input_info_hint">
+        <item>Введите номер карты</item>
+        <item>Введите номер телефона</item>
+        <item>Введите адрес</item>
+    </string-array>
+    <string-array name="payment_method_message">
+        <item>Номер карты</item>
+        <item>Номер телефона</item>
+        <item>Адрес</item>
+    </string-array>
+
+    <string name="countries_cities_streets_title">Страны-Города-Улицы</string>
+    <string name="toast_message_countries_cities_streets">
+        Страна: %1$s;\n
+        Город: %2$s;\n
+        Номер дома: %3$s.
+    </string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белорусия</item>
+    </string-array>
+    <string-array name="russian_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="ukrainian_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="belorussian_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+    <string name="task_time_limits_title">Сроки задачи</string>
+    <string name="start_date_and_time">Дата начала задачи: %1$s</string>
+    <string name="end_date_and_time">Дата окончания задачи: %1$s</string>
+    <string name="toast_message_task_time_limits">
+        Дата начала: %1$s;\n
+        Дата окончания: %2$s.
+    </string>
+    <string name="error">Ошибка: дата окончания раньше даты начала задачи</string>
+    <string name="fragment_screenshot">Screenshot фрагмента</string>
+
+    <string-array name="subtitle">
+        <item>Блок 1 "Введение в Android. Структура проекта".\n
+            Урок 3 "Проектирование интерфейса".\n
+            Задание 1 "Система мониторинга здоровья"</item>
+
+        <item>Блок 2 "Android View".\n
+            Урок 2 "Компоненты ViewGroup. SharedPreferences".\n
+            Задание 1 "Записная книжка"</item>
+
+        <item>Блок 1 "Введение в Android. Структура проекта".\n
+            Урок 1 "Введение в Android. Компоненты Android".\n
+            Задание 2 "Собственный Hello World"</item>
+
+        <item>Блок 1 "Введение в Android. Структура проекта".\n
+            Урок 2 "Приложение Hello World".\n
+            Задание 1 "Универсальная форма ввода"</item>
+
+        <item>Блок 1 "Введение в Android. Структура проекта".\n
+            Урок 2 "Приложение Hello World".\n
+            Задание 2 "Бесконечный переход между экранами"</item>
+
+        <item>Блок 2 "Android View".\n
+            Урок 1 "Компоненты View. Иерархия View".\n
+            Задание 1 "Взаимоисключающие Chechbox-ы"</item>
+
+        <item>Блок 2 "Android View".\n
+            Урок 1 "Компоненты View. Иерархия View".\n
+            Задание 2 "Страны-Города-Улицы"</item>
+
+        <item>Блок 2 "Android View".\n
+            Урок 1 "Компоненты View. Иерархия View".\n
+            Задание 3 "Сроки выполнения задачи"</item>
+    </string-array>
+</resources>
